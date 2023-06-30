@@ -1,3 +1,6 @@
+% scenario: 3 vehicles£ºpreceding veh, CAV, HV
+% system dynamic model only include CAV
+% MPC controls CAV
 clear all
 clc
 tic
